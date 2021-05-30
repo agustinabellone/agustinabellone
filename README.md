@@ -1,7 +1,7 @@
-<h1>¡Bienvenido/a!👋 Soy Agustina</h1>
+<h1>¡Bienvenido/a!👋</h1>
 <h3>Me gusta el desarrollo frontend & el diseño ux-ui 💖</h3>
 
-- 🌱 Estudio la tecnicatura en desarrollo web en UNLaM **⌛ 10/20**
+- 🌱 Estudio la tecnicatura en desarrollo web en UNLaM (**⌛ 10/20**)
 
 - 🎨 Algunos de mis proyectos como diseñadora: [behance.net/agustinabellone](behance.net/agustinabellone)
 
