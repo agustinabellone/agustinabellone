@@ -1,5 +1,5 @@
-<h1 align="center">¡Bienvenido/a!👋 Soy Agustina</h1>
-<h3 align="center">Me gusta el desarrollo frontend & el diseño ux-ui 💖</h3>
+<h1>¡Bienvenido/a!👋 Soy Agustina</h1>
+<h3>Me gusta el desarrollo frontend & el diseño ux-ui 💖</h3>
 
 - 🌱 Estudio la tecnicatura en desarrollo web en UNLaM **⌛ 10/20**
 
@@ -9,9 +9,9 @@
 
 <h3 align="left">Puedes encontrarme en:</h3>
 <p align="left">
-<a href="https://codepen.io/agustinabellone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="agustinabellone" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/agustinabellone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="agustinabellone" height="30" width="40" /></a>
-<a href="https://www.behance.net/agustinabellone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/behance.svg" alt="agustinabellone" height="30" width="40" /></a>
+<a href="https://codepen.io/agustinabellone" target="blank"><img align="center" src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png" alt="agustinabellone" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/agustinabellone" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="agustinabellone" height="30" width="40" /></a>
+<a href="https://www.behance.net/agustinabellone" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" alt="agustinabellone" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
