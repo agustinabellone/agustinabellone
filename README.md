@@ -1,4 +1,5 @@
 <h1>¡Bienvenido/a!👋</h1>
+<h2>Me llamo Agustina Bellone👋</h2>
 <h3>Me gusta el desarrollo frontend & el diseño ux-ui 💖</h3>
 
 - 🌱 Estudio la tecnicatura en desarrollo web en UNLaM (**⌛ 10/20**)
