@@ -1,7 +1,7 @@
 <h1>¡Bienvenido/a! 👋</h1>
 <h3>Mi meta es capacitarme en desarrollo frontend & en diseño ux-ui, ya que es lo que mas me gusta 💖</h3>
 
-- 🌱 Estudio la tecnicatura en desarrollo web en UNLaM (**⌛ 10/20**)
+- 🌱 Estudio la tecnicatura en desarrollo web en UNLaM (**10/20 ⌛**)
 
 - 🎨 Algunos de mis proyectos como diseñadora: <a href="https://www.behance.net/agustinabellone" target="_blank">behance.net/agustinabellone</a> & <a href="https://dribbble.com/agustinabellone" target="_blank">dribbble.com/agustinabellone</a>
 
