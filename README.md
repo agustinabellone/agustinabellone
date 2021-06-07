@@ -3,7 +3,7 @@
 
 - 🌱 Estudio la tecnicatura en desarrollo web en UNLaM (**⌛ 10/20**)
 
-- 🎨 Algunos de mis proyectos como diseñadora: <a href="https://www.behance.net/agustinabellone" target="_blank">behance.net/agustinabellone</a>
+- 🎨 Algunos de mis proyectos como diseñadora: <a href="https://www.behance.net/agustinabellone" target="_blank">behance.net/agustinabellone</a> & <a href="https://dribbble.com/agustinabellone" target="_blank">dribbble.com/agustinabellone</a>
 
 - 📫 Mi email es: **agustinabellone@gmail.com**
 
