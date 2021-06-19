@@ -1,5 +1,5 @@
 <h1>¡Bienvenido/a! 👋</h1>
-<h3>Mi meta es especializarme en desarrollo Frontend & en Diseño UX-UI, ya que es lo que mas me gusta 💖</h3>
+<h3>Mi meta es especializarme en Desarrollo Frontend & en Diseño UX-UI, ya que es lo que mas me gusta 💖</h3>
 
 - 🌱 Estudio la tecnicatura en desarrollo web en UNLaM
 
